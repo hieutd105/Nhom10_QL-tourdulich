@@ -57,7 +57,7 @@
 <img width="1879" height="944" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/hotel.png" />
 ---Trang xem nhà xe---
 <img width="1888" height="949" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/transport.png" />
----Trang xem danh sách khách hàng---
+---Trang xem danh sách khách du ---
 <img width="1888" height="939" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/bookings.png" />
 ---Trang xem danh sách thanh toán---
 <img width="1888" height="942" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/payment.png" />
