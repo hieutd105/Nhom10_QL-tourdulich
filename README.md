@@ -47,20 +47,20 @@
 </div>
 
 ## 🚀 3. Hình ảnh các chức năng
-### Trang đăng nhập tài khoản
-<img width="1903" height="935" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/tour.png" />
-### Trang đăng kí tài khoản
-<img width="1903" height="935" alt="image" src="https://github.com/user-attachments/assets/a8475173-e8b8-4de6-aea2-2809a29e50e7" />
-### Trang xem danh sách tour du lịch
-<img width="1888" height="943" alt="image" src="https://github.com/user-attachments/assets/1c7176f3-f662-4dd4-a99e-94474d9c62d2" />
-### Trang xem khách sạn 
-<img width="1879" height="944" alt="image" src="https://github.com/user-attachments/assets/13aba4fa-922f-4a67-99e3-e1e8df1ffaa1" />
-### Trang xem nhà xe 
-<img width="1888" height="949" alt="image" src="https://github.com/user-attachments/assets/66e4c8b4-c39f-4dc1-a472-ef7e569f35c4" />
-### Trang xem danh sách thanh toán
-<img width="1888" height="939" alt="image" src="https://github.com/user-attachments/assets/8bbe2d42-1d4f-4a7a-bf60-9d2e6120e9a7" />
-### Trang xem qr thanh toán 
-<img width="1888" height="942" alt="image" src="https://github.com/user-attachments/assets/e5103264-da76-4983-ab73-a86999144eed" />
+---Trang đăng nhập tài khoản---
+<img width="1903" height="935" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/login.png" />
+---Trang đăng kí tài khoản---
+<img width="1903" height="935" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/register.png" />
+---Trang xem danh sách tour du lịch---
+<img width="1888" height="943" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/tour.png" />
+---Trang xem khách sạn--- 
+<img width="1879" height="944" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/hotel.png" />
+---Trang xem nhà xe---
+<img width="1888" height="949" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/transport.png" />
+---Trang xem danh sách khách hàng---
+<img width="1888" height="939" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/bookings.png" />
+---Trang xem danh sách thanh toán---
+<img width="1888" height="942" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/payment.png" />
 
 ## ⚙️ 4. Cài đặt
 
