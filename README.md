@@ -48,7 +48,7 @@
 
 ## 🚀 3. Hình ảnh các chức năng
 ### Trang đăng nhập tài khoản
-<img width="1903" height="935" alt="image" src="https://github.com/user-attachments/assets/a8475173-e8b8-4de6-aea2-2809a29e50e7" />
+<img width="1903" height="935" alt="image" src="https://github.com/hieutd105/Nhom10_QL-tourdulich/blob/main/image/tour.png" />
 ### Trang đăng kí tài khoản
 <img width="1903" height="935" alt="image" src="https://github.com/user-attachments/assets/a8475173-e8b8-4de6-aea2-2809a29e50e7" />
 ### Trang xem danh sách tour du lịch
